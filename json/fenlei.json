@@ -1,0 +1,33 @@
+
+[
+	{
+		"img":"img/pc.png",
+		"name":"Lenovo 笔记本",
+		"address":"http://s.lenovo.com.cn/m/index.html?cate=154"
+	},
+	{
+		"img":"img/lenovoComputer.png",
+		"name":"Lenovo 台式机",
+		"address":"http://s.lenovo.com.cn/m/index.html?cate=156"
+	},
+	{
+		"img":"img/think.png",
+		"name":"ThinkPad 电脑",
+		"address":"http://s.lenovo.com.cn/m/index.html?key=Thinkpad"
+	},
+	{
+		"img":"img/pingban-icon.png",
+		"name":"平板电脑",
+		"address":"http://s.lenovo.com.cn/m/index.html?cate=158"
+	},
+	{
+		"img":"http://p2.lefile.cn/product/adminweb/2016/08/10/6b8d6f4e-23d8-4ebb-9356-37fb811c11b0.png",
+		"name":"通信卡",
+		"address":"http://m.cart.lenovo.com.cn/charge/index.jhtm?tab=0"
+	},
+	{
+		"img":"img/service.png",
+		"name":"电脑升级",
+		"address":"http://s.lenovo.com.cn/m/index.html?cate=161"
+	}
+]

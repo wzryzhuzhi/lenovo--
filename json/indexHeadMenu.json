@@ -1,0 +1,38 @@
+{
+  "data":[
+  {
+    "img":"http://p3.lefile.cn/product/adminweb/2017/03/02/ae0d22a2-db07-4328-ba70-a6bb892a7c30_1.w96.png",
+    "name":"领券"
+  },
+    {
+      "img":"http://p4.lefile.cn/product/adminweb/2017/03/02/393c1cd1-9c91-4238-bd3e-dcd480526422_1.w96.png",
+      "name":"社区"
+    },
+    {
+      "img":"http://p2.lefile.cn/product/adminweb/2017/03/02/9792c3ce-9adb-4c60-a3b5-aef0107f35c5_1.w96.png",
+      "name":"我的收藏"
+    },
+    {
+      "img":"http://p2.lefile.cn/product/adminweb/2017/03/02/f2b946ba-cee2-4389-be69-3fea34bac0ca_1.w96.png",
+      "name":"新品试用"
+    },
+    {
+      "img":"http://p3.lefile.cn/product/adminweb/2017/03/02/12970d74-c5b5-4853-9d62-b78ccb8e162a_1.w96.png",
+      "name":"死人定制"
+    },
+    {
+      "img":"http://p2.lefile.cn/product/adminweb/2017/03/02/29150a40-5189-4e65-afdf-26e561fab872_1.w96.png",
+      "name":"服务与咨询"
+    },
+    {
+      "img":"http://p4.lefile.cn/product/adminweb/2017/03/02/b046a155-04c1-4dcb-bc75-667900daf134_1.w96.png",
+      "name":"物流查询"
+    },
+    {
+      "img":"http://p3.lefile.cn/product/adminweb/2017/03/02/0d62f691-c24e-4558-b467-ddc1a142f884_1.w96.png",
+      "name":"乐豆抽奖"
+    }
+]
+
+
+}
